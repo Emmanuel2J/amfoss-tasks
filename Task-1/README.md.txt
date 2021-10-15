@@ -1,0 +1,1 @@
+I had some trouble with this one. I didnt knew what star repos meant, I thought it will create the amfoss-tasks repo for me. But eventually I asked Geo, and he told me what it was and that I already did it. So yeah thanks Geo.
