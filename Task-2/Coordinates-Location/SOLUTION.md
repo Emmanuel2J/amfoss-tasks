@@ -20,3 +20,8 @@ cp East/EastCoordinate.txt .
 mv EastCoordinate.txt East.txt
 rm East/EastCoordinate.txt
 Step 5: After that I combined the north and east txt by cat North.txt East.txt > Location-Coordinate.txt
+STEP 8: First a login onto my account in the terminal by using config command (git config --global user.name Emmanuel2J and git config --global user.email Myemail@example.com) and to confirm I logged in I used cat .git/config
+After that I created a dir called COMP167 using mkdir COMP167 and then I cloned my repo by using a http link and the command git clone the_url
+Then I moved the Coordinates-Location folder to Task-2 Folder by using mw command (mv ../../../Desktop/Coordinates-Location .)
+After that was done I used git add . command to stage my changes then to commit it I typed git commit -m "Add existing file"
+And then finally I used git push orgin main command to put it in my repo
